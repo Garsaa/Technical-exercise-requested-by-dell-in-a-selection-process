@@ -1,6 +1,3 @@
-# Exercicio-tecnico-DELL-em-C
-Exercício técnico solicitado pela DELL em um processo seletivo
+#Technical exercise requested by DELL in a selection process
 
-O exercício consiste em fazer um programa que exerça as funções solicitadas na específicação que consiste em consultar um banco de dados csv condicionalmente de acordo com a função do menu, sem utilizar tecnologia de banco de dados exclusivamente.
-
-
+The exercise consists of writing a program that performs the functions requested in the specification, which consists of querying a csv database conditionally according to the menu function, without using database technology exclusively.
